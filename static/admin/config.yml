@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: zuckpa1999/zuck-blog-v3
+  branch: main
 
 media_folder: "content/blog/images/uploads"
 public_folder: ../assetss
