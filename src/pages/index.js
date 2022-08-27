@@ -1,18 +1,21 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-
+import SearchPosts from "../components/searchPosts"
 const BlogIndex = ({ data, location }) => {
+  // const { navigate } = this.props
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
+  const posts = data.allMarkdownRemark.edges
+  console.log('data.allMarkdownRemark', data.allMarkdownRemark)
+  console.log('posts', posts)
+  // const localSearchBlog = data.localSearchBlog
+  if (posts?.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
         <Bio />
+        <h1>dd</h1>
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
           directory you specified for the "gatsby-source-filesystem" plugin in
@@ -24,8 +27,8 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Bio />
-      <ol style={{ listStyle: `none` }}>
+      {/* <Bio /> */}
+      {/* <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
@@ -56,7 +59,12 @@ const BlogIndex = ({ data, location }) => {
             </li>
           )
         })}
-      </ol>
+      </ol> */}
+      <SearchPosts
+        posts={posts}
+        data={data}
+        location={location}
+      />
     </Layout>
   )
 }
@@ -70,25 +78,62 @@ export default BlogIndex
  */
 export const Head = () => <Seo title="All posts" />
 
+// export const pageQuery = graphql`
+//   query {
+//     site {
+//       siteMetadata {
+//         title
+//       }
+//     }
+//     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+//       nodes {
+//         excerpt
+//         fields {
+//           slug
+//         }
+//         frontmatter {
+//           date(formatString: "MMMM DD, YYYY")
+//           title
+//           description
+//         }
+//       }
+//     }
+//   }
+// `
+
+
 export const pageQuery = graphql`
-  query {
+  {
     site {
       siteMetadata {
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
+     allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+            description
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 700, maxHeight: 400) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            tag
+          }
         }
       }
     }
+    
+  
   }
+
 `
