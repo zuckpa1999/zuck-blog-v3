@@ -32,22 +32,24 @@ Hi! I'm currently a full-stack developer working in Thailand for around 1.5 year
 
 In total, I applied for 250-270 opportunities. My plan  back then was to ***"apply to all the dev roles available for the new grad."*** I  didn't really  mind whether I would be working on the front-end or backend because I sort of wanted to experience a bit of everything before specializing in anything.
 
+<br/>
+
 **here's the exact info.**
 <br/>
 
-* ***Applied: 250+***
-* *Received an info for application process: 12*
-* *Ignored the email cuz I didn't rly wanna work there: 6*
-* *went through application process( interviews/ tests): 6*
-* *Rejected: 2*
-* ***Received a final offer: 4*** 
+* ***\- Applied: 250+***
+* *\- Received an info for application process: 12*
+* *\- Ignored the email cuz I didn't rly wanna work there: 6*
+* *\- went through application process( interviews/ tests): 6*
+* *\- Rejected: 2*
+* ***\- Received a final offer: 4*** 
 
 **The final 4s were** 
 
-1. *IBM*
-2. *Accenture*
-3. *Thoughtworks*
-4. *some e-commerce startup (don't rmb the name)*
+1. *1. IBM*
+2. *2. Accenture*
+3. *3. Thoughtworks*
+4. *4 .some e-commerce startup (don't rmb the name)*
 
 <br/>
 
@@ -96,13 +98,22 @@ As I mentioned earlier with the recruiter issue, one way to workaround is gettin
 
 # **Hard /technical skill > soft skill**
 
+<br/>
+
+<br/>
+
 As someone who spends a great deal of my time during college for extracurricular / activities that don't necessarily relate to coding/tech (Hackathon, startup, non-profit, biz case, student activities blabla) I do think I have a somewhat unique background. Sadly, the primary/ 1st priority criteria for developers is skill technical skill (coding). Being a great communicator/facilitator + other stuff does matter to some degree, and it might be more crucial as u become more senior, but the main expectation for junior dev is mostly to deliver what you are expected/ implement features/ resolve bugs/defects balboa. I have no regrets about how I spent my time during college, as I do feel Like I have a unique strength which was also recognized by a number of interviewers, but **definitely do prioritize technical skills> soft skills for junior dev when you prepare for the interviews as It will help u land a job much easier, especially for entry-level.** Highly recommend you to grind [leetcode](https://leetcode.com)( focus on easy & medium questions).
 
 <br/>
 
 ![interview_meme](./images/uploads/5efd3e5d-83b3-47ab-b0b3-5285ec37798d.jpeg "interview_meme")
 
-# **Application process (interviews + all kinds of tests)**
+<br/>
+
+<br/>
+
+# \
+**Application process (interviews + all kinds of tests)**
 
 ## **The Purposes**
 
@@ -112,16 +123,16 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-1. Address your concerns/ questions regarding the role as well as the company 
+* 1. Address your concerns/ questions regarding the role as well as the company 
 
-   * Org's culture
-   * Commute
-   * Compensation & Benefit
-   * Engineering practice
-   * Work hours/ work-life balance
-   * any factors that might affect your decision regarding the job.
-2. Assess whether the opportunities actually align with your priorities for th job.
-3. Just learn/ gain more knowledge both in terms of technical skills as well as industry knowledge.
+  * Org's culture
+  * Commute
+  * Compensation & Benefit
+  * Engineering practice
+  * Work hours/ work-life balance
+  * any factors that might affect your decision regarding the job.
+* 2. Assess whether the opportunities actually align with your priorities for th job.
+* 3. Just learn/ gain more knowledge both in terms of technical skills as well as industry knowledge.
 
 <br/>
 
