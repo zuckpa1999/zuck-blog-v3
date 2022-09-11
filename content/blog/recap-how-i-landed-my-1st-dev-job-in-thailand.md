@@ -37,6 +37,8 @@ In total, I applied for 250-270 opportunities. My plan  back then was to ***"app
 **here's the exact info.**
 <br/>
 
+<br/>
+
 * ***\- Applied: 250+***
 * *\- Received an info for application process: 12*
 * *\- Ignored the email cuz I didn't rly wanna work there: 6*
@@ -45,6 +47,10 @@ In total, I applied for 250-270 opportunities. My plan  back then was to ***"app
 * ***\- Received a final offer: 4*** 
 
 **The final 4s were** 
+
+<br/>
+
+<br/>
 
 1. *1. IBM*
 2. *2. Accenture*
@@ -113,6 +119,7 @@ As someone who spends a great deal of my time during college for extracurricular
 <br/>
 
 # \
+
 **Application process (interviews + all kinds of tests)**
 
 ## **The Purposes**
@@ -123,7 +130,7 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-* 1. Address your concerns/ questions regarding the role as well as the company 
+* 1. 1. Address your concerns/ questions regarding the role as well as the company 
 
   * Org's culture
   * Commute
@@ -131,8 +138,8 @@ As someone who spends a great deal of my time during college for extracurricular
   * Engineering practice
   * Work hours/ work-life balance
   * any factors that might affect your decision regarding the job.
-* 2. Assess whether the opportunities actually align with your priorities for th job.
-* 3. Just learn/ gain more knowledge both in terms of technical skills as well as industry knowledge.
+* 2. 2. Assess whether the opportunities actually align with your priorities for th job.
+* 3. 3. Just learn/ gain more knowledge both in terms of technical skills as well as industry knowledge.
 
 <br/>
 
@@ -142,17 +149,18 @@ At the end of the day, you are going to choose  only one job anyway, so ***it's 
 
 ## **Types of interviews/tests & Facts**
 
+<br/>
+
 From my experiences, there are usually 2-5 rounds of interviews/tests for the whole application process (based on the companies).
 
 <br/>
 
-1. **Recruiter call/chat** where the person will ask you  a few questions to make sure that your background and CV are legit.
-2. **Technical rounds.** I can categorize mainly 2 ways of the technical interview I have faced so far.
+1. **1. Recruiter call/chat** where the person will ask you  a few questions to make sure that your background and CV are legit.
+2. **2. Technical rounds.** I can categorize mainly 2 ways of the technical interview I have faced so far.
 
-   2.1 **The coding interview revolves around data structure and Algorithm**s. They will give you a coding problem similar to the ones from leetcode. Most of the time, the interviewers will ask you to articulate your thoughts as you are solving the problem as well. For this one, the preparation is pretty much picking a language you prefer and grinding leetcode as much as possible. Focus on easy and medium questions & a few data structures - Array, String, Hash Tables. Make sure you can provide the time complexity as well as the space complexity of your solution.  **I mostly faced this type of technical interview.**
-
-   2.2  Another way of technical interviews is where **they provide a problem that's more relevant to the position you applied** for. For instance, I applied for a front-end role, and they gave me a problem to test my HTML/ CSS/ JS knowledge. Asking about generic JS syntax as well as how to do layouts/ stylings/ logic prolems.
-3. **Culture fit** - usually just to make sure that you will fit in / align with the company's culture. (Most companies I applied skipped this one, but I included it anyway lol)       
+   * **The coding interview revolves around data structure and Algorithm**s. They will give you a coding problem similar to the ones from leetcode. Most of the time, the interviewers will ask you to articulate your thoughts as you are solving the problem as well. For this one, the preparation is pretty much picking a language you prefer and grinding leetcode as much as possible. Focus on easy and medium questions & a few data structures - Array, String, Hash Tables. Make sure you can provide the time complexity as well as the space complexity of your solution.  **I mostly faced this type of technical interview.**
+   * Another way of technical interviews is where **they provide a problem that's more relevant to the position you applied** for. For instance, I applied for a front-end role, and they gave me a problem to test my HTML/ CSS/ JS knowledge. Asking about generic JS syntax as well as how to do layouts/ stylings/ logic prolems.
+3. **3. Culture fit** - usually just to make sure that you will fit in / align with the company's culture. (Most companies I applied skipped this one, but I included it anyway lol)       
 
 <br/>
 
@@ -166,7 +174,13 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
 # **Negotiating the offers.**
 
+<br/>
+
 A piece  of advice I got early on for negotiating the offer is
+
+<br/>
+
+
 
 >  ***lining up interviews from different companies in the same timeframe so you can use the offers from multiple companies(in case you got the accepted for the positions) to negotiate with the companies back and forth to maximize your compensation.***
 
