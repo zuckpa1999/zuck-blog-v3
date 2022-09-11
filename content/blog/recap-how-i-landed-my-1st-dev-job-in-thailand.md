@@ -26,13 +26,13 @@ Hi! I'm currently a full-stack developer working in Thailand for around 1.5 year
 
 <br/>
 
-## **Overview**
+# **Overview**
 
 <br/>
 
 In total, I applied for 250-270 opportunities. My plan  back then was to ***"apply to all the dev roles available for the new grad."*** I  didn't really  mind whether I would be working on the front-end or backend because I sort of wanted to experience a bit of everything before specializing in anything.
 
-**So here are the exact stats.**
+**here's the exact info.**
 <br/>
 
 * ***Applied: 250+***
@@ -55,7 +55,7 @@ In total, I applied for 250-270 opportunities. My plan  back then was to ***"app
 
 <br/>
 
-## **Crappy Recruiters**
+# **Crappy Recruiters**
 
 <br/>
 
@@ -77,7 +77,7 @@ Therefore, **don't read into it too much when you don't get a reply back. You mi
 
 <br/>
 
-## **Referral**
+# **Referral**
 
 <br/>
 
@@ -94,7 +94,7 @@ As I mentioned earlier with the recruiter issue, one way to workaround is gettin
 <br/>
 <br/>
 
-## **Hard /technical skill > soft skill**
+# **Hard /technical skill > soft skill**
 
 As someone who spends a great deal of my time during college for extracurricular / activities that don't necessarily relate to coding/tech (Hackathon, startup, non-profit, biz case, student activities blabla) I do think I have a somewhat unique background. Sadly, the primary/ 1st priority criteria for developers is skill technical skill (coding). Being a great communicator/facilitator + other stuff does matter to some degree, and it might be more crucial as u become more senior, but the main expectation for junior dev is mostly to deliver what you are expected/ implement features/ resolve bugs/defects balboa. I have no regrets about how I spent my time during college, as I do feel Like I have a unique strength which was also recognized by a number of interviewers, but **definitely do prioritize technical skills> soft skills for junior dev when you prepare for the interviews as It will help u land a job much easier, especially for entry-level.** Highly recommend you to grind [leetcode](https://leetcode.com)( focus on easy & medium questions).
 
@@ -102,9 +102,9 @@ As someone who spends a great deal of my time during college for extracurricular
 
 ![interview_meme](./images/uploads/5efd3e5d-83b3-47ab-b0b3-5285ec37798d.jpeg "interview_meme")
 
-## **Application process (interviews + all kinds of tests)**
+# **Application process (interviews + all kinds of tests)**
 
-### **The Purposes**
+## **The Purposes**
 
 <br/>
 
@@ -129,7 +129,7 @@ At the end of the day, you are going to choose  only one job anyway, so ***it's 
 
 <br/>
 
-### **Types of interviews/tests & Facts**
+## **Types of interviews/tests & Facts**
 
 From my experiences, there are usually 2-5 rounds of interviews/tests for the whole application process (based on the companies).
 
@@ -153,7 +153,7 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
 <br/>
 
-## **Negotiating the offers.**
+# **Negotiating the offers.**
 
 A piece  of advice I got early on for negotiating the offer is
 
@@ -173,7 +173,7 @@ A piece  of advice I got early on for negotiating the offer is
 
 <br/>
 
-## **Conclusion**
+# **Conclusion**
 
 <br/>
 
