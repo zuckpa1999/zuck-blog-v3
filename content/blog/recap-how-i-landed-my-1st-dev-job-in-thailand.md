@@ -18,7 +18,7 @@ Hi! I'm currently a full-stack developer working in Thailand for around 1.5 year
 
 <br/>
 
-![me a few months after the last semester lol](content/blog/images/uploads/IMG_ME.jpeg "me a few months after the last semester lol")
+![me a few months after the last semester lol](../assets/img_7721.jpeg "me a few months after the last semester lol")
 
 <br/>
 
@@ -100,7 +100,7 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-![interview_meme](./images/uploads/5efd3e5d-83b3-47ab-b0b3-5285ec37798d.jpeg "interview_meme")
+![interview_meme](../assets/5efd3e5d-83b3-47ab-b0b3-5285ec37798d.jpeg "interview_meme")
 
 ## **Application process (interviews + all kinds of tests)**
 
@@ -155,7 +155,7 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
 ## **Negotiating the offers.**
 
-One of the pieces of advice I got early on for negotiating the offer is
+A piece  of advice I got early on for negotiating the offer is
 
 >  ***lining up interviews from different companies in the same timeframe so you can use the offers from multiple companies(in case you got the accepted for the positions) to negotiate with the companies back and forth to maximize your compensation.***
 
