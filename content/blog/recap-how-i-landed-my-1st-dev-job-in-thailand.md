@@ -18,7 +18,7 @@ Hi! I'm currently a full-stack developer working in Thailand for around 1.5 year
 
 <br/>
 
-![me a few months after the last semester lol](../assets/IMG_0759.jpeg "me a few months after the last semester lol")
+![me a few months after the last semester lol](./images/uploads/IMG_ME.jpeg "me a few months after the last semester lol")
 
 <br/>
 
@@ -100,7 +100,7 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-![interview_meme](../assets/5efd3e5d-83b3-47ab-b0b3-5285ec37798d.jpeg "interview_meme")
+![interview_meme](./images/uploads/5efd3e5d-83b3-47ab-b0b3-5285ec37798d.jpeg "interview_meme")
 
 ## **Application process (interviews + all kinds of tests)**
 
