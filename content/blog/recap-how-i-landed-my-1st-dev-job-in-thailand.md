@@ -118,17 +118,15 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-**Application process (interviews + all kinds of tests)**
+# **Application process (interviews + all kinds of tests)**
 
 ## **The Purposes**
 
 <br/>
 
- One of the ways people typically approach the process, that I noticed, is ** *"you being tested as a candidate whether you are a good fit for the role."*** However, I would encourage you to think of the interviews as ways to
+ One of the ways people typically approach the process, that I noticed, is  **"you being tested as a candidate whether you are a good fit for the role."** However, I would encourage you to think of the interviews as ways to
 
 <br/>
-
-
 
 1. **1.** Address your concerns/ questions regarding the role as well as the company 
 
