@@ -118,7 +118,9 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-# **Application process (interviews + all kinds of tests)**
+##### **Application process (interviews + all kinds of tests)**
+
+<br/>
 
 ## **The Purposes**
 
