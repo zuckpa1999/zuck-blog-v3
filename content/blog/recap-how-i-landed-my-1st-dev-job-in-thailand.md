@@ -180,7 +180,7 @@ A piece  of advice I got early on for negotiating the offers was
 
 <br/>
 
->  ***lining up interviews from different companies in the same timeframe so you can use the offers from multiple companies(in case you got the accepted for the positions) to negotiate with the companies back and forth to maximize your compensation.***
+>  ***lining up interviews from different companies in the same timeframe so you can use the offers from multiple companies(in case you got accepted for the position) to negotiate with the companies back and forth to maximize your compensation.***
 
 <br/>
 
