@@ -46,9 +46,9 @@ In total, I applied for 250-270 opportunities. My plan  back then was to ***"app
 * *\- Rejected: 2*
 * ***\- Received a final offer: 4*** 
 
-**The final 4s were** 
-
 <br/>
+
+**The final 4s were** 
 
 <br/>
 
@@ -118,8 +118,6 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-# \
-
 **Application process (interviews + all kinds of tests)**
 
 ## **The Purposes**
@@ -143,7 +141,7 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-At the end of the day, you are going to choose  only one job anyway, so ***it's best (imo) to make sure you land the opportunity you desire the most by maximizing the info regarding the position as well as gaining something from the interviews besides the result of the interviews.*** From my exprience, I learned a ton during my application processes from most companies I applied, e.g. industry knowledge, coding skill, architectural decisions based on the company's context, criteria companies used to assess candidates etc, so I do believe all the interviews/ tests were worth the time for me even thouth I went through a ton of them. Furthermore, interviews generally also do like candidates who seem proactive & vocal as it can indicate the interest in the role as well as an ability to communicate effectively.
+At the end of the day, you are going to choose  only one job anyway, so ***it's best (imo) to make sure you land the opportunity you desire the most by maximizing the info regarding the position as well as gaining something from the interviews besides the result of the interviews.*** From my experience, I learned a ton during my application processes from most companies I applied, e.g. industry knowledge, coding skill, architectural decisions based on the company's context, criteria companies used to assess candidates etc, so I do believe all the interviews/ tests were worth the time for me even though I went through a ton of them. Furthermore, interviews generally also do like candidates who seem proactive & vocal as it can indicate the interest in the role as well as an ability to communicate effectively.
 
 <br/>
 
@@ -179,8 +177,6 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 A piece  of advice I got early on for negotiating the offer is
 
 <br/>
-
-
 
 >  ***lining up interviews from different companies in the same timeframe so you can use the offers from multiple companies(in case you got the accepted for the positions) to negotiate with the companies back and forth to maximize your compensation.***
 
