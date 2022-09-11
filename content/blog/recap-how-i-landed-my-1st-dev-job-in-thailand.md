@@ -147,7 +147,7 @@ At the end of the day, you are going to choose  only one job anyway, so ***it's 
 
 <br/>
 
-**Types of interviews/tests & Facts**
+## **Types of interviews/tests & Facts**
 
 <br/>
 
@@ -172,7 +172,7 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
 <br/>
 
-# **Negotiating the offers.**
+**Negotiating the offers.**
 
 <br/>
 
