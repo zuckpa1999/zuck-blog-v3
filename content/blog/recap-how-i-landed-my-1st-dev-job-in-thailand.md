@@ -10,33 +10,25 @@ tag: Technology
 <br/>
 <br/>
 
-
 Hi! I'm currently a full-stack developer working in Thailand for around 1.5 years. I went through a 2-3 months search for a developer/software engineer role a few months before I completed my bachelor degree. The process was quite frustrating and lengthy, but one of the reasons was partially  because I wanted to ensure my priorities aligned with the job. **Hence, I want to write this post to help anyone looking to land an entry-level developer role in Thailand and to provide my perspective regarding some misconceptions people might have during the job hunting/searching.** Moreover, another purpose is for me to document/ reflect on how I did throughout the 3-months process. 
 
-
-
 <br/>
 
 <br/>
 
 <br/>
 
-
-
-![me a few months after the last semester lol](../assets/img_7725.jpeg "me a few months after the last semester lol")
+![me a few months after the last semester lol](../assets/img_7721.jpeg "me a few months after the last semester lol")
 
 <br/>
-
 
  Keep in mind that this blog is solely based on my personal experience. **You might/ might not have a similar experience as I did**, but I will try my best to highlight common insights / discernible patterns from my journey, so it's as beneficial as possible for people who are looking for a dev job.
 
 <br/>
 
-
 ## **Overview**
 
 <br/>
-
 
 In total, I applied for 250-270 opportunities. My plan  back then was to ***"apply to all the dev roles available for the new grad."*** I  didn't really  mind whether I would be working on the front-end or backend because I sort of wanted to experience a bit of everything before specializing in anything.
 
@@ -76,9 +68,7 @@ From discussing w/ recruiters regarding the issues, it is  typical  that  candid
 
 <br/>
 
-
 Therefore, **don't read into it too much when you don't get a reply back. You might be a stellar candidate for the position, but the recruiters, for whatever reasons, choose other candidates over you.** 
-
 
 <br/>
 <br/>
@@ -92,12 +82,6 @@ Therefore, **don't read into it too much when you don't get a reply back. You mi
 <br/>
 
 As I mentioned earlier with the recruiter issue, one way to workaround is getting a referral from people inside the company that you know. Most companies provide referral fees to employees who successfully refer a new hire, so they are also incentivized to refer you to their recruiters.  I actually got a referral from my senior for an interview at Agoda. That helped me get an interview, but sadly I didn't pass the test 🥲. Still, asking for a referral from people you know is probably the best way to bypass/ deal with the issue of not getting an interview in the first place.
-
-
-
-
-
-
 
 > \
 > \
@@ -118,11 +102,7 @@ As someone who spends a great deal of my time during college for extracurricular
 
 ![interview_meme](./images/uploads/5efd3e5d-83b3-47ab-b0b3-5285ec37798d.jpeg "interview_meme")
 
-
-
 ## **Application process (interviews + all kinds of tests)**
-
-
 
 ### **The Purposes**
 
@@ -149,11 +129,9 @@ At the end of the day, you are going to choose  only one job anyway, so ***it's 
 
 <br/>
 
-
 ### **Types of interviews/tests & Facts**
 
 From my experiences, there are usually 2-5 rounds of interviews/tests for the whole application process (based on the companies).
-
 
 <br/>
 
@@ -164,8 +142,6 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
    2.2  Another way of technical interviews is where **they provide a problem that's more relevant to the position you applied** for. For instance, I applied for a front-end role, and they gave me a problem to test my HTML/ CSS/ JS knowledge. Asking about generic JS syntax as well as how to do layouts/ stylings/ logic prolems.
 3. **Culture fit** - usually just to make sure that you will fit in / align with the company's culture. (Most companies I applied skipped this one, but I included it anyway lol)       
-
-
 
 <br/>
 
