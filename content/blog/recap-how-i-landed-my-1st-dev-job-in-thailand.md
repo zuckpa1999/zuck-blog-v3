@@ -128,18 +128,18 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-1. Address your concerns/ questions regarding the role as well as the company 
 
-* Org's culture
-* Commute
-* Compensation & Benefit
-* Engineering practice
-* Work hours/ work-life balance
-* any factors that might affect your decision regarding the job.
 
-2. Assess whether the opportunities actually align with your priorities for the job.
+1. **1.** Address your concerns/ questions regarding the role as well as the company 
 
-3. Just learn/ gain more knowledge both in terms of technical skills as well as industry knowledge.
+   * Org's culture
+   * Commute
+   * Compensation & Benefit
+   * Engineering practice
+   * Work hours/ work-life balance
+   * any factors that might affect your decision regarding the job.
+2. **2.** Assess whether the opportunities actually align with your priorities for the job.
+3. **3.** Just learn/ gain more knowledge both in terms of technical skills as well as industry knowledge.
 
 <br/>
 
