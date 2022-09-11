@@ -18,7 +18,7 @@ Hi! I'm currently a full-stack developer working in Thailand for around 1.5 year
 
 <br/>
 
-![me a few months after the last semester lol](./images/uploads/IMG_ME.jpeg "me a few months after the last semester lol")
+![me a few months after the last semester lol](./images/uploads/IMG_7777.jpeg "me a few months after the last semester lol")
 
 <br/>
 
