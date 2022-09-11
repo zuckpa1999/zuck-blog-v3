@@ -26,7 +26,7 @@ Hi! I'm currently a full-stack developer working in Thailand for around 1.5 year
 
 <br/>
 
-# **Overview**
+**Overview**
 
 <br/>
 
@@ -63,7 +63,7 @@ In total, I applied for 250-270 opportunities. My plan  back then was to ***"app
 
 <br/>
 
-# **Crappy Recruiters**
+**Crappy Recruiters**
 
 <br/>
 
@@ -85,7 +85,7 @@ Therefore, **don't read into it too much when you don't get a reply back. You mi
 
 <br/>
 
-# **Referral**
+**Referral**
 
 <br/>
 
@@ -102,7 +102,7 @@ As I mentioned earlier with the recruiter issue, one way to workaround is gettin
 <br/>
 <br/>
 
-# **Hard /technical skill > soft skill**
+**Hard /technical skill > soft skill**
 
 <br/>
 
@@ -118,7 +118,7 @@ As someone who spends a great deal of my time during college for extracurricular
 
 <br/>
 
-##### **Application process (interviews + all kinds of tests)**
+**Application process (interviews + all kinds of tests)**
 
 <br/>
 
@@ -147,7 +147,7 @@ At the end of the day, you are going to choose  only one job anyway, so ***it's 
 
 <br/>
 
-## **Types of interviews/tests & Facts**
+**Types of interviews/tests & Facts**
 
 <br/>
 
@@ -196,7 +196,7 @@ A piece  of advice I got early on for negotiating the offer is
 
 <br/>
 
-# **Conclusion**
+**Conclusion**
 
 <br/>
 
