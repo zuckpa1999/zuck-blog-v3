@@ -176,7 +176,7 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
 <br/>
 
-A piece  of advice I got early on for negotiating the offer is
+A piece  of advice I got early on for negotiating the offers was
 
 <br/>
 
