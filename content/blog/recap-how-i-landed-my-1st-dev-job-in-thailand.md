@@ -133,12 +133,12 @@ From the interviewers/ hiring people's perspective, their approach toward you is
 
 1. **1.** Address your concerns/ questions regarding the role as well as the company. here are topics I brought up in my interviews
 
-   * 1. Org's culture
-   * 2. Commute
-   * 3. Compensation & Benefit
-   * 4. Engineering practice
-   * 5. Work hours/ work-life balance
-   * 6. any factors that might affect your decision regarding the job.
+   * 1.Org's culture
+   * 2.Commute
+   * 3.Compensation & Benefit
+   * 4.Engineering practice
+   * 5.Work hours/ work-life balance
+   * 6.any factors that might affect your decision regarding the job.
 2. **2.** Assess whether the opportunities actually align with your priorities for the job.
 3. **3.** Take advantage of the interviews to just learn/ gain more knowledge both in terms of technical skills  ,industry knowledge and how to crack the interviews
 
@@ -159,8 +159,8 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 1. **1. Recruiter call/chat** where the person will ask you  a few questions to make sure that your background and CV are legit.
 2. **2. Technical rounds.** I can categorize mainly 2 ways of the technical interview I have faced so far.
 
-   * **The coding interview revolves around data structure and Algorithm**s. They will give you a coding problem similar to the ones from leetcode. Most of the time, the interviewers will ask you to articulate your thoughts as you are solving the problem as well. For this one, the preparation is pretty much picking a language you prefer and grinding leetcode as much as possible. Focus on easy and medium questions & a few data structures - Array, String, Hash Tables. Make sure you can provide the time complexity as well as the space complexity of your solution.  **I mostly faced this type of technical interview.**
-   * Another way of technical interviews is where **they provide a problem that's more relevant to the position you applied** for. For instance, I applied for a front-end role, and they gave me a problem to test my HTML/ CSS/ JS knowledge. Asking about generic JS syntax as well as how to do layouts/ stylings/ logic prolems.
+   * **\-The coding interview revolves around data structure and Algorithm**s. They will give you a coding problem similar to the ones from leetcode. Most of the time, the interviewers will ask you to articulate your thoughts as you are solving the problem as well. For this one, the preparation is pretty much picking a language you prefer and grinding leetcode as much as possible. Focus on easy and medium questions & a few data structures - Array, String, Hash Tables. Make sure you can provide the time complexity as well as the space complexity of your solution.  **I mostly faced this type of technical interview.**
+   * \-Another way of technical interviews is where **they provide a problem that's more relevant to the position you applied** for. For instance, I applied for a front-end role, and they gave me a problem to test my HTML/ CSS/ JS knowledge. Asking about generic JS syntax as well as how to do layouts/ stylings/ logic prolems.
 3. **3. Culture fit** - usually just to make sure that you will fit in / align with the company's culture. (Most companies I applied skipped this one, but I included it anyway lol)       
 
 <br/>
