@@ -133,12 +133,12 @@ From the interviewers/ hiring people's perspective, their approach toward you is
 
 1. **1.** Address your concerns/ questions regarding the role as well as the company. here are topics I brought up in my interviews
 
-   * 1.Org's culture
-   * 2.Commute
-   * 3.Compensation & Benefit
-   * 4.Engineering practice
-   * 5.Work hours/ work-life balance
-   * 6.any factors that might affect your decision regarding the job.
+   * \-Org's culture
+   * \-Commute
+   * \-Compensation & Benefit
+   * \-Engineering practice
+   * \-Work hours/ work-life balance
+   * \-any factors that might affect your decision regarding the job.
 2. **2.** Assess whether the opportunities actually align with your priorities for the job.
 3. **3.** Take advantage of the interviews to just learn/ gain more knowledge both in terms of technical skills  ,industry knowledge and how to crack the interviews
 
