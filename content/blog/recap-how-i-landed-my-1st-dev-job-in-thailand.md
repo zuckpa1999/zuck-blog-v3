@@ -127,7 +127,7 @@ As someone who spends a great deal of my time during college on extracurricular 
 
 <br/>
 
-From the interviewers/ hiring people's perspective, their approach toward you is  **"whether you as a candidate are a good fit for the role or not,"** which makes sense from their side, but I would also encourage you to leverage the interviews as ways to
+From the interviewers/ hiring people's perspective, their approach toward you is  **" evaluating whether you as a candidate are a good fit for the role or not,"** which makes sense from their side, but I would also encourage you to leverage the interviews as ways to
 
 <br/>
 
@@ -148,7 +148,7 @@ At the end of the day, you are going to choose  only one job anyway, so ***it's 
 
 <br/>
 
-## **Types of interviews/tests &** insights
+## **Types of interviews/tests & insights**
 
 <br/>
 
