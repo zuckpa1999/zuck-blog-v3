@@ -159,7 +159,7 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 2. **2. Technical rounds.** I can categorize mainly 2 ways of the technical interview I have faced so far.
 
    * **\-The coding interview revolves around data structure and Algorithm**s. They will give you a coding problem similar to the ones from leetcode. Most of the time, the interviewers will ask you to articulate your thoughts as you are solving the problem as well. For this one, the preparation is pretty much picking a language you prefer and grinding leetcode as much as possible. Focus on easy and medium questions & a few data structures - Array, String, Hash Tables. Make sure you can provide the time complexity as well as the space complexity of your solution.  **I mostly faced this type of technical interview.**
-   * \-Another way of technical interviews is where **they provide a problem that's more relevant to the position you applied** for. For instance, I applied for a front-end role, and they gave me a problem to test my HTML/ CSS/ JS knowledge. Asking about generic JS syntax as well as how to do layouts/ stylings/ logic prolems.
+   * \-Another way of technical interviews is where **they provide a problem that's more relevant to the position you applied** for. For instance, I applied for a front-end role, and they gave me a problem to test my HTML/ CSS/ JS knowledge as well as generic JS syntax  & how to do layouts/ stylings/ logic problems.
 3. **3. Culture fit** - usually just to make sure that you will fit in / align with the company's culture. (Most companies I applied skipped this one, but I included it anyway lol)       
 
 <br/>
