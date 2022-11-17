@@ -139,11 +139,11 @@ From the interviewers/ hiring people's perspective, their approach toward you is
    * \-Work hours/ work-life balance
    * \-any factors that might affect your decision regarding the job.
 2. **2.** Assess whether the opportunities actually align with your priorities for the job.
-3. **3.** Take advantage of the interviews to just learn/ gain more knowledge both in terms of technical skills  ,industry knowledge and how to crack the interviews
+3. **3.** Take advantage of the interviews to learn/ gain more technical skills, industry knowledge, how to crack the interviews, etc.
 
 <br/>
 
-At the end of the day, you are going to choose  only one job anyway, so ***it's best (imo) to make sure you land the opportunity you desire the most by maximizing the info regarding the position as well as gaining something from the interviews besides the result of the interviews.*** From my experience, I learned a ton during my application processes from most companies I applied e.g. industry knowledge, coding skill, architectural decisions based on the company's context, criteria companies used to assess candidates etc, so I do believe all the interviews/ tests were worth the time for me even though I went through a ton of them. Furthermore, interviews generally also do like candidates who seem proactive & vocal as it can indicate the interest in the role as well as an ability to communicate effectively.
+At the end of the day, you are going to choose  only one job anyway, so ***it's best (imo) to make sure you land the opportunity you desire the most by maximizing the info regarding the position as well as gaining something from the interviews besides the result of the interviews.*** From my experience, I learned a ton during my application processes from most companies I applied e.g. industry knowledge, coding skill, architectural decisions based on the company's context, criteria companies used to assess candidates etc, so I do believe all the interviews/ tests were worth the time for me even though I went through a ton of them. Furthermore, interviewers generally also like candidates who seem proactive & vocal as it can indicate the interest in the role as well as an ability to communicate effectively.
 
 <br/>
 
@@ -155,7 +155,7 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
 <br/>
 
-1. **1. Recruiter call/chat** where the person will ask you  a few questions to make sure that your background and CV are legit.
+1. **1. Recruiter call/chat** where the recruiter will ask you  a few questions to ensure that your background and CV are legit.
 2. **2. Technical rounds.** I can categorize mainly 2 ways of the technical interview I have faced so far.
 
    * **\-The coding interview revolves around data structure and Algorithm**s. They will give you a coding problem similar to the ones from leetcode. Most of the time, the interviewers will ask you to articulate your thoughts as you are solving the problem as well. For this one, the preparation is pretty much picking a language you prefer and grinding leetcode as much as possible. Focus on easy and medium questions & a few data structures - Array, String, Hash Tables. Make sure you can provide the time complexity as well as the space complexity of your solution.  **I mostly faced this type of technical interview.**
@@ -164,7 +164,7 @@ From my experiences, there are usually 2-5 rounds of interviews/tests for the wh
 
 <br/>
 
- For large-sized & international enterprises, they sometimes add an extra round to test other aspects of the candidates, e.g., cognitive tests, problem-solving tests. Still, **most of my interviews followed a similar pattern above here.**
+ For large-sized & international enterprises, they sometimes add  extra rounds to test other aspects of the candidates, e.g., cognitive tests, problem-solving and written tests . Still, **most of my interviews followed a similar pattern above here.**
 
 <br/>
 
