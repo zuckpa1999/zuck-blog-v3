@@ -5,11 +5,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import SearchPosts from "../components/searchPosts"
 const BlogIndex = ({ data, location }) => {
-  // const { navigate } = this.props
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.edges
-  console.log('data.allMarkdownRemark', data.allMarkdownRemark)
-  console.log('posts', posts)
   // const localSearchBlog = data.localSearchBlog
   if (posts?.length === 0) {
     return (
@@ -67,6 +64,12 @@ export const pageQuery = graphql`
                 fluid(maxWidth: 700, maxHeight: 400) {
                   ...GatsbyImageSharpFluid
                 }
+                gatsbyImageData(
+                  width: 700
+                  height: 400
+                  placeholder: BLURRED
+                  formats: [AUTO, WEBP, AVIF]
+                )
               }
             }
             tag
