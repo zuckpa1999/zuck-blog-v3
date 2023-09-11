@@ -3,13 +3,10 @@ module.exports = {
     title: `zuck_pa's blog`,
     author: {
       name: `Barameerak Koonmongkon`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `-`,
     },
     description: `zuck_pa's blog`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
   },
   plugins: [
     `gatsby-plugin-image`,

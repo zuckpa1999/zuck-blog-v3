@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "gatsby";
-import Menu from "./menu"
 function NavBar() {
     return (
         <nav className="bg-white-800 border">
